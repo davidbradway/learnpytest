@@ -5,5 +5,5 @@ class TestClass:
         assert 'h' in x
 
     def test_two(self):
-        x = "hello"
-        assert hasattr(x, 'check')
+        x = 3-5j
+        assert hasattr(x, 'real')
